@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086989138803",
+    "project_id": "techzy-985ec",
+    "storage_bucket": "techzy-985ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086989138803:android:ebfd1f9c8e4d07a6bce306",
+        "android_client_info": {
+          "package_name": "com.example.techzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086989138803-gnvsh4n4begn40r75cavvqmm2t8m5peu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTRVKceQseHztBuxBQsXNp57sOiLWSGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086989138803-gnvsh4n4begn40r75cavvqmm2t8m5peu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
